@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day16homework/Day16homework.iml" filepath="$PROJECT_DIR$/Day16homework/Day16homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day17homework/Day17homework.iml" filepath="$PROJECT_DIR$/Day17homework/Day17homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day18homework/Day18homework.iml" filepath="$PROJECT_DIR$/Day18homework/Day18homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day19homework/Day19homework.iml" filepath="$PROJECT_DIR$/Day19homework/Day19homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day20homework/Day20homework.iml" filepath="$PROJECT_DIR$/Day20homework/Day20homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day21homework/Day21homework.iml" filepath="$PROJECT_DIR$/Day21homework/Day21homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day22homework/Day22homework.iml" filepath="$PROJECT_DIR$/Day22homework/Day22homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day23homework/Day23homework.iml" filepath="$PROJECT_DIR$/Day23homework/Day23homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day24homework/Day24homework.iml" filepath="$PROJECT_DIR$/Day24homework/Day24homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day27homework/Day27homework.iml" filepath="$PROJECT_DIR$/Day27homework/Day27homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day29homework/Day29homework.iml" filepath="$PROJECT_DIR$/Day29homework/Day29homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day30homework/Day30homework.iml" filepath="$PROJECT_DIR$/Day30homework/Day30homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day31homework/Day31homework.iml" filepath="$PROJECT_DIR$/Day31homework/Day31homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day32homework/Day32homework.iml" filepath="$PROJECT_DIR$/Day32homework/Day32homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day32homeworkAmend/Day32homeworkAmend.iml" filepath="$PROJECT_DIR$/Day32homeworkAmend/Day32homeworkAmend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day33homework/Day33homework.iml" filepath="$PROJECT_DIR$/Day33homework/Day33homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day34homework/Day34homework.iml" filepath="$PROJECT_DIR$/Day34homework/Day34homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java编程.iml" filepath="$PROJECT_DIR$/Java编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyStack/MyStack.iml" filepath="$PROJECT_DIR$/MyStack/MyStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random/Random.iml" filepath="$PROJECT_DIR$/Random/Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuffer和StringBuilderTest/StringBuffer和StringBuilderTest.iml" filepath="$PROJECT_DIR$/StringBuffer和StringBuilderTest/StringBuffer和StringBuilderTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringClassMethodTest/StringClassMethodTest.iml" filepath="$PROJECT_DIR$/StringClassMethodTest/StringClassMethodTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array algorithm/array algorithm.iml" filepath="$PROJECT_DIR$/array algorithm/array algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter/chapter.iml" filepath="$PROJECT_DIR$/chapter/chapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/jdbc.iml" filepath="$PROJECT_DIR$/JDBC/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/包装类测试/包装类测试.iml" filepath="$PROJECT_DIR$/包装类测试/包装类测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数字类、Random、Enum/数字类、Random、Enum.iml" filepath="$PROJECT_DIR$/数字类、Random、Enum/数字类、Random、Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/日期类测试/日期类测试.iml" filepath="$PROJECT_DIR$/日期类测试/日期类测试.iml" />
+    </modules>
+  </component>
+</project>
